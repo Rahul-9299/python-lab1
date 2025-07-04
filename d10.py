@@ -1,6 +1,4 @@
 # Menu-driven program to perform arithmetic operations based on user choice
-
-# Display the menu options to the user
 print("Menu:")
 print("1. Addition (+)")
 print("2. Subtraction (-)")
