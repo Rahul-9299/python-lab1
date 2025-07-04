@@ -1,3 +1,4 @@
+# program to count the number of each character in a given string using a dictionary
 s = "my name is rahul bam"
 char_count = {}
 for char in s:
