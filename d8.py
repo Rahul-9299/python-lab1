@@ -1,6 +1,4 @@
-122# Program to check if a number is a palindrome
-
-# Get user input
+# Program to check if a number is a palindrome
 num = input("Enter a number: ")
 if num == num[::-1]:
     print(num, "is a palindrome.")
